@@ -1,0 +1,39 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "allen4stuff@gmail.com",
+    "longName": "first watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/FEASFBI_.TTF",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/FEASFBI_.TTF",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "first watch",
+    "uuid": "3c75e158-892c-4691-91d1-d232f2b561d3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
